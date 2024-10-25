@@ -115,7 +115,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 > 7. Give an example of grit from your own life.
 > 8. What evidence is there that grit is important? (Describe at least one study: what group was studied, what was the treatment, and what was the result?)
 >
-> *8Next, you should take turns EACH answering the following reflection questions**
+> **Next, you should take turns EACH answering the following reflection questions**
 >
 > 1. What do you understand about mindset now that you did not understand before?
 > 2. What do you think is more important: effort or intelligence? Explain your opinion.
@@ -130,16 +130,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 >
 > Create a short write-up that includes the following (this is what you will submit to get credit for the assignment):
 >
-> A. Your partner’s name
->
-> B. Date and time of the conversation
->
-> C. Were there any areas of confusion or disagreement in your conversation?
->
-> D. What is one thing you learned or better understand as a result of the conversation?
->
+> - a. Your partner’s name
+> - a. Date and time of the conversation
+> - a. Were there any areas of confusion or disagreement in your conversation?
+> - a. What is one thing you learned or better understand as a result of the conversation?
 > E. Give your own personal “yet” sentence.
->
 > F. What is one way you personally plan to practice growth mindset?
 >
 > **Step 4**
