@@ -18,7 +18,7 @@ Read/watch
 - <a href="https://www.youtube.com/watch?v=preyTbKXDoQ&t=400s" target="_blank">Real life examples of pseudocode</a>
 - <a href="https://www.youtube.com/watch?v=preyTbKXDoQ&t=657s" target="_blank">Practice examples of Pseudocode</a>
 - <a href="https://profiles.canterbury.ac.nz/Tim-Bell" target="_blank">[Optional] deepdive</a>
-- <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fcomputersciencewiki.org%2Fimages%2Fe%2Fea%2FPseudo_Code_Practice_Problems.pdf&tabId=137100451&clen=377050&chunk=true" target="_blank">More practice examples</a>
+- <a href="https://computersciencewiki.org/images/e/ea/Pseudo_Code_Practice_Problems.pdf" target="_blank">More practice examples</a>
 
 ## Learning Objectives
 
