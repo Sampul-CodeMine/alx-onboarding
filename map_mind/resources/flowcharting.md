@@ -17,17 +17,17 @@ This type of diagram is extremely versatile and is used across many professional
 
 | Symbol |  Name  |  Description |
 |--|--|--|
-|  ![Flowline](resources/arrow.png "Flowline") | Flowline / Arrowhead  |  Shows the order. Comes from one symbol to another|
-| ![Terminator](resources/terminator.png "Terminator")  | Terminal / Terminator |  Shows where a process (or sub-process) starts or ends; text is usually “Start”, “Begin”, or “End”|
-| ![Process](resources/process.png "Process")  | Process / Rectangle |Process, action step, or operation; text is usually a verb, examples include: “Edit Video”, “Choose Plan”, “Set variable to ‘hello’”|
-| ![Input/Output](resources/data.png "Data Input and Output")  | Data (I/O) | Inputs to (entering data) and Outputs from (displaying results) a process|
-| ![Decision](resources/decision.png "Conditional Decisions")  | Decision / Conditional | Used to ask a question whose answer determines the route taken from the question. Arrow from bottom is Yes / True, Arrow from side(s) is No / False, (Always label the arrows to make it clear)|
-| ![Reports and Documents](resources/docs.png "Reports and Documents")  | Document (s) |   Represents a document or report|
-| ![Routines](resources/subr.png "Subroutines")  | Subroutine / Predefined Process| A process that can be used in the current process but defined elsewhere (should have a separate flowchart for it)|
-|  ![Comments](resources/comments.png "Comments")  |Annotation (Comment)  |  Additional info about a step; the line connecting to the step can be solid or dashed|
-| ![Same Page Connector](resources/on-connector.png "On-Page Connector")  | On-page Connector   |Replaces long or confusing lines, use a letter to reference|
-| ![Next Page Connector](resources/off-connector.png "Off-Page Connector")  | Off-page Connector | To connect this process to the next step, which is on another page; use page number for reference|
- | ![DB/Data file](resources/db.png "Database file") | Data File / Database  |  Data represented by a cylinder (originally representative of disk drive)|
+|  ![Flowline](arrow.png "Flowline") | Flowline / Arrowhead  |  Shows the order. Comes from one symbol to another|
+| ![Terminator](terminator.png "Terminator")  | Terminal / Terminator |  Shows where a process (or sub-process) starts or ends; text is usually “Start”, “Begin”, or “End”|
+| ![Process](process.png "Process")  | Process / Rectangle |Process, action step, or operation; text is usually a verb, examples include: “Edit Video”, “Choose Plan”, “Set variable to ‘hello’”|
+| ![Input/Output](data.png "Data Input and Output")  | Data (I/O) | Inputs to (entering data) and Outputs from (displaying results) a process|
+| ![Decision](decision.png "Conditional Decisions")  | Decision / Conditional | Used to ask a question whose answer determines the route taken from the question. Arrow from bottom is Yes / True, Arrow from side(s) is No / False, (Always label the arrows to make it clear)|
+| ![Reports and Documents](docs.png "Reports and Documents")  | Document (s) |   Represents a document or report|
+| ![Routines](subr.png "Subroutines")  | Subroutine / Predefined Process| A process that can be used in the current process but defined elsewhere (should have a separate flowchart for it)|
+|  ![Comments](comments.png "Comments")  |Annotation (Comment)  |  Additional info about a step; the line connecting to the step can be solid or dashed|
+| ![Same Page Connector](on-connector.png "On-Page Connector")  | On-page Connector   |Replaces long or confusing lines, use a letter to reference|
+| ![Next Page Connector](off-connector.png "Off-Page Connector")  | Off-page Connector | To connect this process to the next step, which is on another page; use page number for reference|
+ | ![DB/Data file](db.png "Database file") | Data File / Database  |  Data represented by a cylinder (originally representative of disk drive)|
 
 ### An Example
 
@@ -75,7 +75,7 @@ No peeking!
 
 Alright, does your flowchart look similar to the diagram below?
 
-![Flowchart](resources/flowchart.png "Flow Chart")
+![Flowchart](flowchart.png "Flow Chart")
 
 ### Bonus Info
 

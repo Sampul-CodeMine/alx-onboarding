@@ -4,8 +4,8 @@
 
 For this project, we expect you to look at these concepts:
 
-- [White boarding](white_boarding.md)
-- [Flowcharts](flowcharting.md)
+- [White boarding](resources/white_boarding.md)
+- [Flowcharts](resources/flowcharting.md)
 
 ## Resources
 
