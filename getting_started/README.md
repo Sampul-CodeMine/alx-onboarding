@@ -31,62 +31,62 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **What is growth mindset?**
 
-[] Holding a belief that one’s character, intelligence, and/or creative ability are carved in stone and can’t change in any meaningful way.
-[] Holding a belief that your failure means that you lack what it takes to be successful.
-[x] Holding a belief that one’s intelligence and abilities can grow through dedication and hard work.
-[] Holding a belief that success is a result of one’s innate intelligence and/or talents.
+- [] Holding a belief that one’s character, intelligence, and/or creative ability are carved in stone and can’t change in any meaningful way.
+- [] Holding a belief that your failure means that you lack what it takes to be successful.
+- [x] Holding a belief that one’s intelligence and abilities can grow through dedication and hard work.
+- [] Holding a belief that success is a result of one’s innate intelligence and/or talents.
 
 #### Question #1
 
 **Which of the following statements about fixed mindset is true?**
 
-[] When adopting a fixed mindset, you are more likely to use the word “yet” when you talk about what you can’t do, or what you don’t know.
-[] Students who were trained to have a fixed mindset performed better in mathematics than students who were trained to have a growth mindset.
-[x] Students who adopted a fixed mindset were more likely to see their failures as indicators that they were not smart, rather than as opportunities to learn.
-[] If someone is adopting a fixed mindset, their beliefs about the nature of intelligence are more accurate than someone adopting a growth mindset.
+- [] When adopting a fixed mindset, you are more likely to use the word “yet” when you talk about what you can’t do, or what you don’t know.
+- [] Students who were trained to have a fixed mindset performed better in mathematics than students who were trained to have a growth mindset.
+- [x] Students who adopted a fixed mindset were more likely to see their failures as indicators that they were not smart, rather than as opportunities to learn.
+- [] If someone is adopting a fixed mindset, their beliefs about the nature of intelligence are more accurate than someone adopting a growth mindset.
 
 #### Question #2
 
 **Which factor was the highest predictor of success for Spelling Bee (spelling competition) contestants?**
 
-[] IQ
-[] Wealth
-[x] Grit
-[] Social intelligence
+- [] IQ
+- [] Wealth
+- [x] Grit
+- [] Social intelligence
 
 #### Question #3
 
 **Duckworth discusses several populations who have been studied in regards to their grit. Which population does Duckworth NOT mention being studied?**
 
-[x] Beauty pageant contestants
-[] New teachers in tough neighborhoods
-[] Sales people in private companies
-[] Military trainees
+- [x] Beauty pageant contestants
+- [] New teachers in tough neighborhoods
+- [] Sales people in private companies
+- [] Military trainees
 
 #### Question #4
 
 **What is grit?**
 
-[] Growth mindset
-[x] Perseverance in the face of challenges
-[] Positive self-talk
-[] Fixed mindset
+- [] Growth mindset
+- [x] Perseverance in the face of challenges
+- [] Positive self-talk
+- [] Fixed mindset
 
 #### Question #5
 
 **Which of the following statements is true?**
 
-[] Brains in fixed mindset show a lot of activity when confronted with an error.
-[x] Brains in growth mindset show a lot of activity when confronted with an error.
+- [] Brains in fixed mindset show a lot of activity when confronted with an error.
+- [x] Brains in growth mindset show a lot of activity when confronted with an error.
 
 #### Question #6
 
 **Which of the following study findings is correct?**
 
-[x] In a study with a math computer game, students who were rewarded for process gave more effort and used more strategies than students who were rewarded for correct answers.
-[] In one study, one group of students were taught that their brains develop new neuronal connections and grow when they learn new things. Another group were not taught this lesson. The students who were taught the brain lesson performed significantly worse than that students who were not taught the lesson.
-[] In one study, one group of students were taught that their brains develop new neuronal connections and grow when they learn new things. Another group were not taught this lesson. The students who were taught the brain lesson did not perform any differently than the students who were not taught the lesson.
-[] In a study with a math computer game, students who were rewarded for process gave less effort and used fewer strategies than students who were rewarded for correct answers.
+- [x] In a study with a math computer game, students who were rewarded for process gave more effort and used more strategies than students who were rewarded for correct answers.
+- [] In one study, one group of students were taught that their brains develop new neuronal connections and grow when they learn new things. Another group were not taught this lesson. The students who were taught the brain lesson performed significantly worse than that students who were not taught the lesson.
+- [] In one study, one group of students were taught that their brains develop new neuronal connections and grow when they learn new things. Another group were not taught this lesson. The students who were taught the brain lesson did not perform any differently than the students who were not taught the lesson.
+- [] In a study with a math computer game, students who were rewarded for process gave less effort and used fewer strategies than students who were rewarded for correct answers.
 
 Tasks
 0. Growth Mindset and Grit
