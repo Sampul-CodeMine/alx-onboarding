@@ -130,12 +130,12 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 >
 > Create a short write-up that includes the following (this is what you will submit to get credit for the assignment):
 >
-> - a. Your partner’s name
-> - a. Date and time of the conversation
-> - a. Were there any areas of confusion or disagreement in your conversation?
-> - a. What is one thing you learned or better understand as a result of the conversation?
-> E. Give your own personal “yet” sentence.
-> F. What is one way you personally plan to practice growth mindset?
+> a. Your partner’s name
+> b. Date and time of the conversation
+> c. Were there any areas of confusion or disagreement in your conversation?
+> d. What is one thing you learned or better understand as a result of the conversation?
+> e. Give your own personal “yet” sentence.
+> f. What is one way you personally plan to practice growth mindset?
 >
 > **Step 4**
 >
