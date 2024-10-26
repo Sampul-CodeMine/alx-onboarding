@@ -78,8 +78,7 @@ You can only have one buffer open in Emacs at a time.
 - [ ] True
 - [x] False
 
->
-> #### Tasks
+#### Tasks
 >
 > **0. Create your answer directory**
 >
