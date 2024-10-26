@@ -1,38 +1,34 @@
-Owning your Learning
-Soft-skill
-Onboarding
- Novice
- Weight: 0
- Project over - took place from May 4, 2023 6:00 AM to May 5, 2023 6:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 1.0/1 mandatory
-Altogether:  100.0%
-Mandatory: 100.0%
-Optional: no optional tasks
-Concepts
+# Owning your Learning
+
+## Concepts
+
 For this project, we expect you to look at these concepts:
 
-Technical Questioning
-The Framework
-Peer Learning Day - How To Get Started
-Approaching a Project
-Resources
+- [Technical Questioning](resources/tech_questioning.md)
+- [The Framework](resources/framework.md)
+- [Peer Learning Day - How To Get Started](resources/pld.md)
+- [Approaching a Project](resources/approaching_projects.md)
+
+## Resources
+
 Read or watch
 
-The Feynman Learning technique
-How I tackle projects at ALX (Learn from Firdaus Salim)
-Focus and diffuse mode of thinking watch
-Focus and diffuse mode of thinking read
-Learning Objectives
+- [The Feynman Learning technique](https://fs.blog/feynman-learning-technique/)
+- [How I tackle projects at ALX (Learn from Firdaus Salim)](https://medium.com/alx-africa/how-i-tackle-my-software-engineering-projects-at-alx-610f3f5a6448)
+- [Focus and diffuse mode of thinking watch](https://www.youtube.com/watch?v=WTr12dK2Se0)
+- [Focus and diffuse mode of thinking read](https://www.brainscape.com/academy/focused-vs-diffuse-thinking-learning/)
+
+## Learning Objectives
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-what steps do i need to learn how to learn?
-What is the Feynman learning technique and how can I implement it?
-What does it mean to own my own learning journey?
-In what ways can I crack through if I don’t get it***:)“
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Hide quiz)
+- what steps do i need to learn how to learn?
+- What is the Feynman learning technique and how can I implement it?
+- What does it mean to own my own learning journey?
+- In what ways can I crack through if I don’t get it***:)“
+
+### Quiz questions
+
 Question #0
 Which of the following is true about the Feynman learning technique (Select all that apply)
 
