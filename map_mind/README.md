@@ -36,16 +36,16 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 **Is pseudocode a programming language**
 
-[ ] yes
-[x] No
+- [ ] yes
+- [x] No
 
 #### Question #1
 
 **which of the following statement is true about pseudocodes**
 
-[x] It’s simply an implementation of an algorithm in the form of annotations and informative text written in plain English
-[x] it acts as a bridge between the program and the algorithm"
-[x] pseudocode improves the readability of any approach
+- [x] It’s simply an implementation of an algorithm in the form of annotations and informative text written in plain English
+- [x] it acts as a bridge between the program and the algorithm"
+- [x] pseudocode improves the readability of any approach
 
 ### Tasks
 
