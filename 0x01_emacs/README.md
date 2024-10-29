@@ -3,7 +3,7 @@
 ## Concepts
 
 - [The Framework](../03_own_your_learning/resources/framework.md)
-- [Shell]()
+- [Shell](resources/shell.md)
 
 ## Congrats!
 

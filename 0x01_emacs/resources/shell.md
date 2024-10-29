@@ -1,10 +1,10 @@
+# Shell
 
-SE Foundations
-Average: 145.58%
-Shell
-Manpage
-Most of Unix systems are managed by using Shell. Just as you need to know a minimum number of words to have a discussion in a language, you need to know a minimum number of commands to be able to easily interact with a system. Unix systems all have, sometimes with slight differences, the same set of commands. While it is not too hard to remember commands, it might be hard to remember all of their options and how exactly to use them. The solution to this is the man command. Let’s go through a part of the ssh one, as there are few elements to know to be able to read a man page:
+## Manpage
 
+Most of Unix systems are managed by using Shell. Just as you need to know a minimum number of words to have a discussion in a language, you need to know a minimum number of commands to be able to easily interact with a system. Unix systems all have, sometimes with slight differences, the same set of commands. While it is not too hard to remember commands, it might be hard to remember all of their options and how exactly to use them. The solution to this is the `man command`. Let’s go through a part of the `ssh` one, as there are few elements to know to be able to read a man page:
+
+```shell
 NAME
 ssh — OpenSSH SSH client (remote login program)
 
@@ -14,21 +14,25 @@ ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec] [-D [bind_add
 
 DESCRIPTION
 ssh (SSH client) is a program for logging into a remote machine and for executing commands on a remote machine. It is intended to replace rlogin and rsh, and provide secure encrypted communications between two untrusted hosts over an insecure network. X11 connections and arbitrary TCP ports can also be forwarded over the secure channel.
+```
 
-Some tips:
+**Some tips:**
 
-The NAME will summarize what the command is doing. As it is usually super short, you might want to look at DESCRIPTION (bellow) if ever it does not gives clear enough information
-The SYNOPSIS will help you to understand the structure of the command:
-A shell command usually have this format: command options parameters
-Options inside [] are optional
-The string without [] are mandatory
-ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-D [bind_address:]port]
-ssh is mandatory
--1246AaCfgKkMNnqsTtVvXxYy is optional
--D [bind_address:]port is optional (with bind_address: being itself optional within -D [bind_address:]port
-Commands
+- The `NAME` will summarize what the command is doing. As it is usually super short, you might want to look at DESCRIPTION (bellow) if ever it does not gives clear enough information
+- The `SYNOPSIS` will help you to understand the structure of the command:
+  - A shell command usually have this format: `command options parameters`
+  - Options inside `[]` are optional
+  - The string without `[]` are mandatory
+- `ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-D [bind_address:]port]`
+  - `ssh` is mandatory
+    - `-1246AaCfgKkMNnqsTtVvXxYy` is optional
+    - `-D [bind_address:]port` is optional (with `bind_address:` being itself optional within `-D [bind_address:]port`
+
+## Commands
+
 Here is the (non-exhaustive) list of commands & concepts you should master to be verbose with Unix systems:
 
+```shell
 awk # pattern scanning and processing language
 basename # strip directory and suffix from filenames
 bg # resumes suspended jobs without bringing them to the foreground
@@ -94,9 +98,13 @@ xargs # build and execute command lines from standard input
 > # redirect standard output
 < # redirect standard input
 & # send process to background
-Shortcuts
+```
+
+## Shortcuts
+
 Some handy shortcuts:
 
+```shell
 CTRL+A # go to beginning of line
 CTRL+B # moves backward one character
 CTRL+C # stops the current command
@@ -113,4 +121,4 @@ CTRL+U # kills backward to the beginning of line
 CTRL+W # kills the word behind the cursor
 CTRL+Y # retrieves last deleted string
 CTRL+Z # stops the current command, resume with fg in the foreground or bg in the background
-Copyright © 2024 ALX, All rights reserved.
+```
