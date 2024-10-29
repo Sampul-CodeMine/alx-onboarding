@@ -6,7 +6,7 @@ Most of Unix systems are managed by using Shell. Just as you need to know a mini
 
 ```shell
 NAME
-ssh — OpenSSH SSH client (remote login program)
+    ssh — OpenSSH SSH client (remote login program)
 
 SYNOPSIS
 ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec] [-D [bind_address:]port] [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]
@@ -14,7 +14,12 @@ ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec] [-D [bind_add
     [-w local_tun[:remote_tun]] [user@]hostname [command]
 
 DESCRIPTION
-ssh (SSH client) is a program for logging into a remote machine and for executing commands on a remote machine. It is intended to replace rlogin and rsh, and provide secure encrypted communications between two untrusted hosts over an insecure network. X11 connections and arbitrary TCP ports can also be forwarded over the secure channel.
+    ssh (SSH client) is a program for logging into a remote machine and for executing commands on a remote machine. It is intended to replace rlogin and rsh,
+    and provide secure encrypted communications between two untrusted hosts over an insecure network. X11 connections and arbitrary TCP ports can also
+    be forwarded over the secure channel.
+
+    ...
+
 ```
 
 **Some tips:**
