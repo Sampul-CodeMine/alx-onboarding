@@ -1,5 +1,10 @@
 # 0x02. Emacs
 
+## Concepts
+
+- [The Framework](../03_own_your_learning/resources/framework.md)
+- [Shell]()
+
 ## Congrats!
 
 Now you know how to navigate into a Unix system!
