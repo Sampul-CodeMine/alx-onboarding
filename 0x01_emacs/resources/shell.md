@@ -9,14 +9,15 @@ NAME
     ssh — OpenSSH SSH client (remote login program)
 
 SYNOPSIS
-ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec] [-D [bind_address:]port] [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]
-    [-i identity_file] [-L [bind_address:]port:host:hostport] [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port] [-Q cipher | cipher-auth | mac | kex | key] [-R [bind_address:]port:host:hostport] [-S ctl_path] [-W host:port]
-    [-w local_tun[:remote_tun]] [user@]hostname [command]
+ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec] [-D [bind_address:]port] [-E log_file]
+    [-e escape_char] [-F configfile] [-I pkcs11] [-i identity_file] [-L [bind_address:]port:host:hostport]
+    [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port] [-Q cipher | cipher-auth | mac | kex | key]
+    [-R [bind_address:]port:host:hostport] [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]] [user@]hostname [command]
 
 DESCRIPTION
-    ssh (SSH client) is a program for logging into a remote machine and for executing commands on a remote machine. It is intended to replace rlogin and rsh,
-    and provide secure encrypted communications between two untrusted hosts over an insecure network. X11 connections and arbitrary TCP ports can also
-    be forwarded over the secure channel.
+    ssh (SSH client) is a program for logging into a remote machine and for executing commands on a remote machine.
+    It is intended to replace rlogin and rsh, and provide secure encrypted communications between two untrusted hosts
+    over an insecure network. X11 connections and arbitrary TCP ports can also be forwarded over the secure channel.
 
     ...
 
