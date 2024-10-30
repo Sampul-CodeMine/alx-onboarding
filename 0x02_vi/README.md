@@ -1,4 +1,4 @@
-# 0x03. vi
+# 0x02. vi
 
 ## Another text editor
 
@@ -61,17 +61,17 @@ How do you enter Command Mode in Vi?
 
 How do you enter Insert Mode in Vi?
 
-- [ ] <Insert>
-- [x] i
-- [ ] <Return>
+- [ ] `<Insert>`
+- [x] `i`
+- [ ] `<Return>`
 
 **Question #3**
 
 How do you quit Vi?
 
-- [x] :q<Return>
-- [ ] q
-- [ ] <ESC>
+- [x] `:q<Return>`
+- [ ] `q`
+- [ ] `<ESC>`
 
 #### Tasks
 >
